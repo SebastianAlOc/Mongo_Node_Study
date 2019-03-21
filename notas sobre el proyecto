@@ -1,0 +1,2 @@
+- npm run development: creamos una ruta dentro de package JSON de nodemon en la cual agregamos todo lo relevante a el inicio del servidor pues es un comando ajeno al npm start
+
